@@ -1,11 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-autotree",
+	"name": "AutoTree",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "This plugin generates a full linked table of contents for files in a folder. Similar to and inspired by Waypoint, this aims to be usable outside of Obsidian with minimal effort, but adds some modern thoughts and implimentations outside the scope of the original project.",
+	"author": "Nicholas Eastman",
+	"authorUrl": "https://github.com/ironman820",
 	"isDesktopOnly": false
 }

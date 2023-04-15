@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-autotree",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This plugin generates a full linked table of contents for files in a folder. Similar to and inspired by Waypoint, this aims to be usable outside of Obsidian with minimal effort, but adds some modern thoughts and implimentations outside the scope of the original project.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
